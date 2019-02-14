@@ -1,0 +1,9 @@
+.Footer {
+  height: 70px;
+  background-color: #414141;
+}
+
+.Footer .wrapper {
+  width: 70%;
+  margin: 0 auto;
+}

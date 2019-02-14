@@ -1,0 +1,15 @@
+.Header {
+  position: relative;
+  background-image: url('/assets/banner.jpg');
+  background-size: 600px;
+}
+
+.overlay {
+  height: 100%;
+  background-color: rgba(0,0,0,0.7);
+}
+
+.wrapper {
+  width: 70%;
+  margin: 0 auto;
+}
